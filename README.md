@@ -1,8 +1,6 @@
 # Project-House-Demolitions-in-Palestine
 
 
-# Forced House Demolitions in Palestine
-
 This project aims to analyze the issue of forced house demolitions in Palestine, identifying the areas most affected, the number of people displaced, and the most vulnerable groups. The report will explore patterns related to settlement projects and targeted demolitions in Jerusalem, providing data-driven insights to support advocacy and awareness.
 
 ## Objective
